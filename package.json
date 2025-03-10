@@ -1,0 +1,33 @@
+{
+  "name": "co2-emissions-audit",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webpack",
+    "plugin",
+    "audit",
+    "sustainability",
+    "carbon footprint",
+    "carbon audit",
+    "carbon budget",
+    "CO2 emissions",
+    "green web",
+    "eco-friendly",
+    "performance optimization",
+    "web sustainability",
+    "climate-conscious development"
+  ],
+  "author": "Paul McGann",
+  "license": "MIT",
+  "description": "Modern web applications can be energy-intensive, leading to higher carbon footprints. The CO2EmissionWebpackPlugin aims to quantify and reduce web-related carbon emissions by analyzing Webpack output files and their environmental impact.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulmcgann/co2-emissions-audit.git"
+  },
+  "dependencies": {
+    "@tgwf/co2": "^0.16.6"
+  }
+}
