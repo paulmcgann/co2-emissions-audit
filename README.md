@@ -4,7 +4,7 @@
 
 ## 🌍 Purpose & Motivation
 
-Modern web applications can be **energy-intensive**, leading to **higher carbon footprints**. The **CO2EmissionWebpackPlugin** aims to **quantify and reduce web-related carbon emissions** by analyzing Webpack output files and their environmental impact.
+Modern web applications can be **energy-intensive**, leading to **higher carbon footprints**. The **CO2 Emission Audit** aims to **quantify and reduce web-related carbon emissions** by analyzing Webpack output files and their environmental impact.
 
 By using this plugin, developers can:
 
